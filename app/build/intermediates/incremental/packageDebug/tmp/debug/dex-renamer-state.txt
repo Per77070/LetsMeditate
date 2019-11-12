@@ -1,0 +1,4 @@
+#Tue Sep 17 13:27:04 CEST 2019
+base.0=/Users/Per/Downloads/LetsMeditate/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
